@@ -1,0 +1,1 @@
+Practical Linux exercises focused on process management, job control, signals, and process observation using shell commands and C programs.
