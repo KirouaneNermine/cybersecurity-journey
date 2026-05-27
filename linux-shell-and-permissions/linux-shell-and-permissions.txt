@@ -1,0 +1,1 @@
+Practical Linux system administration exercises covering filesystem management, shell commands, and access permissions.
