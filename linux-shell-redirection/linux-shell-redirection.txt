@@ -1,0 +1,1 @@
+Practical Linux exercises focused on shell redirection, pipes, terminal operations, and file manipulation.
