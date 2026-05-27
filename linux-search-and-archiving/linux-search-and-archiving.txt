@@ -1,0 +1,1 @@
+Practical Linux exercises covering file searching, pattern matching, archiving, and compression using shell commands.
